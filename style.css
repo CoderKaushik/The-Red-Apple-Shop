@@ -374,3 +374,22 @@ body::-webkit-scrollbar-thumb {
 /* .container-fluid {
     width: 100%;
 } */
+
+@media(max-width:488px){
+    .cont1{
+        font-size: 70%;
+        /* width: 150%; */
+    }
+}
+
+@media(max-width:400px){
+    .cont1{
+        font-size: 9px;
+        /* width: 150%; */
+    }
+    .buttons .btn{
+        font-size: 110%;
+    }
+}
+
+
