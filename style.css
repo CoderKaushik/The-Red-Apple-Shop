@@ -369,6 +369,12 @@ body::-webkit-scrollbar-thumb {
     .container-fluid{
         width: 100%;
     }
+    .featurette-heading{
+        justify-content: center;
+    }
+    .fimg{
+        justify-content: center;
+    }
 }
 
 /* .container-fluid {
@@ -380,6 +386,12 @@ body::-webkit-scrollbar-thumb {
         font-size: 70%;
         /* width: 150%; */
     }
+    .featurette-heading{
+        justify-content: center;
+    }
+    .fimg{
+        justify-content: center;
+    }
 }
 
 @media(max-width:400px){
@@ -389,6 +401,12 @@ body::-webkit-scrollbar-thumb {
     }
     .buttons .btn{
         font-size: 110%;
+    }
+    .featurette-heading{
+        justify-content: center;
+    }
+    .fimg{
+        justify-content: center;
     }
 }
 
