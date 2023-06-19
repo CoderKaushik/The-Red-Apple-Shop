@@ -371,9 +371,18 @@ body::-webkit-scrollbar-thumb {
     }
     .featurette-heading{
         justify-content: center;
+        position: relative;
+        left: 1rem;
     }
     .fimg{
         justify-content: center;
+        position: relative;
+        left: 1rem;
+    }
+    .lead{
+        justify-content: center;
+        position: relative;
+        left: 1rem;
     }
 }
 
@@ -388,9 +397,18 @@ body::-webkit-scrollbar-thumb {
     }
     .featurette-heading{
         justify-content: center;
+        position: relative;
+        left: 1rem;
     }
     .fimg{
         justify-content: center;
+        position: relative;
+        left: 1rem;
+    }
+    .lead{
+        justify-content: center;
+        position: relative;
+        left: 1rem;
     }
 }
 
@@ -404,9 +422,18 @@ body::-webkit-scrollbar-thumb {
     }
     .featurette-heading{
         justify-content: center;
+        position: relative;
+        left: 1rem;
     }
     .fimg{
         justify-content: center;
+        position: relative;
+        left: 1rem;
+    }
+    .lead{
+        justify-content: center;
+        position: relative;
+        left: 1rem;
     }
 }
 
