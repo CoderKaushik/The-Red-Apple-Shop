@@ -435,6 +435,9 @@ body::-webkit-scrollbar-thumb {
         position: relative;
         left: 1rem;
     }
+    .leads{
+        justify-content: center;
+    }
 }
 
 
