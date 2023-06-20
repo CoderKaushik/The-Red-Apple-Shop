@@ -378,6 +378,8 @@ body::-webkit-scrollbar-thumb {
         justify-content: center;
         position: relative;
         left: 1rem;
+        margin-bottom: 2rem;
+        margin-top: 2rem;
     }
     .lead{
         justify-content: center;
@@ -404,6 +406,8 @@ body::-webkit-scrollbar-thumb {
         justify-content: center;
         position: relative;
         left: 1rem;
+        margin-bottom: 2rem;
+        margin-top: 2rem;
     }
     .lead{
         justify-content: center;
@@ -429,6 +433,8 @@ body::-webkit-scrollbar-thumb {
         justify-content: center;
         position: relative;
         left: 1rem;
+        margin-bottom: 2rem;
+        margin-top: 2rem;
     }
     .lead{
         justify-content: center;
@@ -437,6 +443,9 @@ body::-webkit-scrollbar-thumb {
     }
     .leads{
         justify-content: center;
+    }
+    .display-4{
+        font-size: 200%;
     }
 }
 
